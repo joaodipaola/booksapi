@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Book 001",
+        "author": "Author 001",
+        "publishing": "Publishing 001",
+        "edition": "Ed 001",
+        "id": "f7559797-2a15-4ff4-85fb-8b67be7e4bdd"
+    },
+    {
+        "title": "Book 002",
+        "author": "Author 002",
+        "publishing": "Publishing 002",
+        "edition": "Ed 002",
+        "id": "4cb74143-ac5b-4efa-9772-708b00b7d970"
+    },
+    {
+        "title": "Book 003",
+        "author": "Author 003",
+        "publishing": "Publishing 003",
+        "edition": "Ed 003",
+        "id": "d5ff7bc1-67f6-4439-9fae-847931e75249"
+    },
+    {
+        "title": "Book 004",
+        "author": "Author 004",
+        "publishing": "Publishing 004",
+        "edition": "Ed 004",
+        "id": "965e6a13-f18e-401e-a092-bbc9ba8aeb8a"
+    },
+    {
+        "title": "Book 005",
+        "author": "Author 005",
+        "publishing": "Publishing 005",
+        "edition": "Ed 005",
+        "id": "e89250ed-a7e8-4a9c-938e-df04a1b20658"
+    }
+]
